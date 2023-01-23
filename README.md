@@ -1,5 +1,5 @@
 # SydneyRiskMap
-In this I have stored my codes in developing risk map for Sydney crash prediction model via ERT and OrderedForest models 
+In this repo. I have stored my codes in developing risk map for Sydney crash prediction model via ERT and OrderedForest models 
 ## What is in there!?
 There are three jupyter notebooks and one .py file which is a Streamlit app to play around with inputs.
 
